@@ -55,5 +55,4 @@ This Node.js server automates email replies for your Gmail account while you're 
 
 - The reply message content can be customized in the code.
 - The label name can also be modified in the code.
-- Ensure your Gmail account has "Less secure app access" enabled for Nodemailer to work correctly.
 - Refer to the official Google APIs documentation for more information on the Gmail API and OAuth authentication.
